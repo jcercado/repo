@@ -1,10 +1,10 @@
-Package: net.winneonsword.package
-Name: Test Package
-Version: 1.0
+Package: net.nextg3n.package
+Name: Them Darks
+Version: 0.1
 Architecture: iphoneos-arm
-Description: This is a test package from /u/WinneonSword's tutorial repository!
-Depiction: http://repo.winneonsword.net/packages/package.html
-Homepage: http://repo.winneonsword.net
-Maintainer: Jesse Bryan <winneonsword@gmail.com>
-Author: Jesse Bryan <winneonsword@gmail.com>
+Description: This is a test package from /u/nextg3n repository!
+Depiction: https://jcercado.github.io/web/
+Homepage: https://jcercado.github.io/repo/
+Maintainer: Jose Cercado <jjcercado32@gmail.com>
+Author: Jose Cercado <jjcercado32@gmail.com>
 Section: Themes
