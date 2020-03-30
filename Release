@@ -1,0 +1,8 @@
+Origin: Nextg3n
+Label: Demo
+Suite: stable
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: repo.Nextg3n.github.io/repo jcc.
